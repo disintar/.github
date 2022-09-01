@@ -21,10 +21,9 @@ Our mission is to make TON more accessible and easy for mass-users and developer
 
 ### Contacts
 
-Twitter: https://twitter.com/disintar_io
-Support: https://t.me/disintarsupport
-
-Russian-speaking telegram channgel: https://t.me/disintar
+- Twitter: https://twitter.com/disintar_io
+- Support: https://t.me/disintarsupport
+- Russian-speaking telegram channgel: https://t.me/disintar
 
 ### Bug bounty
 
