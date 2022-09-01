@@ -25,8 +25,10 @@ Our mission is to make TON more accessible and easy for mass-users and developer
 - Support: https://t.me/disintarsupport
 - Russian-speaking telegram channgel: https://t.me/disintar
 
-### Bug bounty
 
+### Issues and bug bounty
+
+You can post issues about products here: https://github.com/disintar/.github/issues
 Please send any questions related to security to: security@head-labs.com
 
 :heart: 
