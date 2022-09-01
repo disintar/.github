@@ -23,7 +23,7 @@ Our mission is to make TON more accessible and easy for mass-users and developer
 
 - Twitter: https://twitter.com/disintar_io
 - Support: https://t.me/disintarsupport
-- Russian-speaking telegram channgel: https://t.me/disintar
+- Russian-speaking telegram channel: https://t.me/disintar
 
 
 ### Issues and bug bounty
