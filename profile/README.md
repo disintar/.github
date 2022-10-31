@@ -2,10 +2,10 @@
 
 We provide [TON](https://ton.org/) ecosystem products such as:
 
-1. 🙋‍ dTon community
-    1. Scanner
-    2. Graphql API
-    3. TON related tech articles
+1. 🙋‍ [dTon community](https://dton.io/)
+    1. [Scanner](https://dton.io/)
+    2. [Graphql API](https://dton.io/graphql/?)
+    3. [TON related tech articles](https://github.com/disintar/DTN/)
 2. 🌈 Disintar
     1. [NFT Marketplace](https://github.com/disintar)
     2. Custom smart contracts for NFT collections teams
