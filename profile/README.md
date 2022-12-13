@@ -1,24 +1,12 @@
+<img style="height: 300px" src="https://raw.githubusercontent.com/disintar/.github/main/2.png"/>
+
 # Disintar
 
-We provide [TON](https://ton.org/) ecosystem products such as:
+The Disintar technical team is dedicated to creating innovative and cutting-edge products for the TON blockchain ecosystem. Our suite of open-source tools includes the Disintar NFT marketplace, [Toncli CLI](), [Dton blockchain scanner](), [Ton-k8s deployment scripts](), and [Tvm-python bindings](). With these tools, developers can easily deploy and interact with TON smart contracts, scan the blockchain for information, and run their own TON instances on Kubernetes or Compose.
 
-1. 🙋‍ [dTon community](https://dton.io/)
-    1. [Scanner](https://dton.io/)
-    2. [Graphql API](https://dton.io/graphql/?)
-    3. [TON related tech articles](https://github.com/disintar/DTN/)
-2. 🌈 Disintar
-    1. [NFT Marketplace](https://github.com/disintar)
-    2. Custom smart contracts for NFT collections teams
-3. 🧙 Opensource tools such as
-    1. [Toncli](https://github.com/disintar/toncli) - easy to use CLI for smart contracts development, testing and debugging.
-    2. [Ton-k8s](https://github.com/disintar/ton-k8s) - easy to setup production-ready TON full-nodes, DHT, validators via compose and kubernets.
-    3. [PyTVM](https://github.com/disintar/PyTVM) - easy to run TVM from Python
+## Documentation
 
-Feel free to leave suggestions for improving our products, as well as ask any questions. 
-
-Our mission is to make TON more accessible and easy for mass-users and developers. We are always open to dialog. 
-
----
+Documentation can be found on [docs.dton.io](docs.dton.io)
 
 ### Contacts
 
