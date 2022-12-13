@@ -2,7 +2,7 @@
 
 # Disintar
 
-The Disintar technical team is dedicated to creating innovative and cutting-edge products for the TON blockchain ecosystem. Our suite of open-source tools includes the Disintar NFT marketplace, [Toncli CLI](), [Dton blockchain scanner](), [Ton-k8s deployment scripts](), and [Tvm-python bindings](). With these tools, developers can easily deploy and interact with TON smart contracts, scan the blockchain for information, and run their own TON instances on Kubernetes or Compose.
+The Disintar technical team is dedicated to creating innovative and cutting-edge products for the TON blockchain ecosystem. Our suite of open-source tools includes the [Disintar NFT marketplace](https://disintar.io/), [Toncli CLI](https://github.com/disintar/toncli), [Dton blockchain scanner](https://dton.io/), [Ton-k8s deployment scripts](https://github.com/disintar/ton-k8s), and [Tvm-python bindings](https://github.com/disintar/PyTVM/blob/master/tvm-python.ipynb). With these tools, developers can easily deploy and interact with TON smart contracts, scan the blockchain for information, and run their own TON instances on Kubernetes or Compose.
 
 ## Documentation
 
