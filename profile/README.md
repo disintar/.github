@@ -6,7 +6,7 @@ The Disintar technical team is dedicated to creating innovative and cutting-edge
 
 ## Documentation
 
-Documentation can be found on [docs.dton.io](docs.dton.io)
+Documentation can be found on [docs.dton.io](https://docs.dton.io)
 
 ### Contacts
 
